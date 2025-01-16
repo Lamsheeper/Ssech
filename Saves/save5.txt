@@ -1,0 +1,124 @@
+Tundra
+1
+1
+0
+Ground 
+Ground Fairy 0 
+Ground 
+Ground 
+Ice7 
+Ice7 
+Ice7 
+Ice7 
+Ground 
+Ground 
+Ground Fairy 1 
+Ground 
+Ground Prince 0 
+Ground Knight 0 
+Ground 
+Ground 
+Ice7 
+Bridge 
+Ice7 
+Ice7 
+Ground 
+Ground 
+Ground Knight 1 
+Ground Prince 1 
+Ground Bandit 0 
+Ground Knight 0 
+Ground 
+Ground 
+Ice7 
+Ice7 
+Ice7 
+Ice7 
+Ground 
+Ground 
+Ground Knight 1 
+Ground Wizard 1 
+Ground Prince 0 
+Ground Knight 0 
+Ground 
+Ground 
+Ice7 
+Ice7 
+Bridge 
+Ice7 
+Ground 
+Ground 
+Ground Knight 1 
+Ground Prince 1 
+Ground 
+Ground Knight 0 
+Ground 
+Ground 
+Ice7 
+Ice7 
+Ice7 
+Ice7 
+Ground 
+Ground 
+Ground Knight 1 
+Ground 
+Ground 
+Ground Knight 0 
+Ground 
+Ground 
+Ice7 
+Ice7 
+Ice7 
+Ice7 
+Ground 
+Ground 
+Ground Knight 1 
+Ground Prince 0 
+Ground 
+Ground Knight 0 
+Ground 
+Ground 
+Ice7 
+Bridge 
+Ice7 
+Ice7 
+Ground 
+Ground 
+Ground 
+Ground Prince 1 
+Ground Wizard 0 
+Ground Knight 0 
+Ground 
+Ground 
+Ice7 
+Ice7 
+Ice7 
+Ice3 Knight 1 
+Ground 
+Ground Bandit 1 
+Ground 
+Ground 
+Ground Prince 0 
+Ground Knight 0 
+Ground 
+Ground 
+Ice7 
+Ice7 
+Bridge 
+Ice7 
+Ground 
+Ground 
+Ground Knight 1 
+Ground Prince 1 
+Ground 
+Ground Fairy 0 
+Ground 
+Ground 
+Ice7 
+Ice7 
+Ice7 
+Ice7 
+Ground 
+Ground 
+Ground Fairy 1 
+Ground 
